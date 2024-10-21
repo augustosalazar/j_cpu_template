@@ -144,6 +144,6 @@ En resumen, la CPU sigue un ciclo en el que carga instrucciones de la memoria, l
 
 ## Indicaciones sobre el parcial
 
-Durante el parcial es prohíbido el uso de cualquier tipo de material de consulta, incluyendo libros, apuntes, internet, etc. El parcial es individual y cualquier intento de copia o fraude será penalizado. No se permite el uso de asistentes de programación como COPILOT o chatGPT. Cualquier duda o aclaración, por favor preguntar al profesor.
+Durante el parcial es prohíbido el uso de cualquier tipo de material de consulta, incluyendo libros, apuntes, internet, etc. El parcial es individual y cualquier intento de copia o fraude será penalizado. No se permite el uso de asistentes de programación como COPILOT o chatGPT. Cualquier duda o aclaración, por favor preguntar al profesor.   
 Los casos de prueba no pueden ser editados, ni se pueden agregar o quitar casos de prueba. Si se hace, el parcial será anulado y se considerará como copia. Si hay algún error en los casos de prueba, por favor notificar al profesor.
 
