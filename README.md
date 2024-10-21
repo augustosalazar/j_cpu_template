@@ -1,7 +1,10 @@
 # CPU
 
-Implementation for a CPU based on the UML
+Implementation for a CPU based on the UML   
 
+![image](https://github.com/user-attachments/assets/6218d33d-3559-44f9-a542-f0d3c302159c)
+
+   
 ## PlantUML code:
 
 ```plantuml
