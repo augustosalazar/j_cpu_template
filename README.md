@@ -1,8 +1,8 @@
-## CPU
+# CPU
 
 Implementation for a CPU based on the UML
 
-# PlantUML code:
+## PlantUML code:
 
 ```plantuml
 @startuml
@@ -80,7 +80,7 @@ InstructionMemory o--> "0..*" Instruction
 
 ```
 
-# Funcionamiento
+## Funcionamiento
 
 Aquí tienes una explicación sencilla del funcionamiento del sistema que representa este diagrama UML:
 
@@ -142,7 +142,7 @@ Aquí tienes una explicación sencilla del funcionamiento del sistema que repres
 
 En resumen, la CPU sigue un ciclo en el que carga instrucciones de la memoria, las ejecuta usando los registros y la ALU, y guarda los resultados de las operaciones en los registros. Las instrucciones pueden ser de suma o resta, y algunas usan valores constantes mientras que otras operan sobre dos registros.
 
-# Indicaciones sobre el parcial
+## Indicaciones sobre el parcial
 
 Durante el parcial es prohíbido el uso de cualquier tipo de material de consulta, incluyendo libros, apuntes, internet, etc. El parcial es individual y cualquier intento de copia o fraude será penalizado. No se permite el uso de asistentes de programación como COPILOT o chatGPT. Cualquier duda o aclaración, por favor preguntar al profesor.
 Los casos de prueba no pueden ser editados, ni se pueden agregar o quitar casos de prueba. Si se hace, el parcial será anulado y se considerará como copia. Si hay algún error en los casos de prueba, por favor notificar al profesor.
