@@ -144,6 +144,9 @@ En resumen, la CPU sigue un ciclo en el que carga instrucciones de la memoria, l
 
 ## Indicaciones sobre el parcial
 
+El parcial consiste en implementar una CPU que pueda ejecutar las instrucciones definidas en el diagrama UML. Debes implementar las clases y métodos necesarios para que la CPU pueda cargar instrucciones, ejecutarlas y almacenar los resultados en los registros correspondientes. La implementación debe cumplir con los requerimientos y restricciones definidos en el diagrama UML y los casos de prueba.
+
 Durante el parcial es prohíbido el uso de cualquier tipo de material de consulta, incluyendo libros, apuntes, internet, etc. El parcial es individual y cualquier intento de copia o fraude será penalizado. No se permite el uso de asistentes de programación como COPILOT o chatGPT. Cualquier duda o aclaración, por favor preguntar al profesor.   
+   
 Los casos de prueba no pueden ser editados, ni se pueden agregar o quitar casos de prueba. Si se hace, el parcial será anulado y se considerará como copia. Si hay algún error en los casos de prueba, por favor notificar al profesor.
 
