@@ -6,6 +6,8 @@ import com.uninorte.InstructionMemory;
 import com.uninorte.Instruction.AddI;
 import com.uninorte.Instruction.Instruction;
 
+// NO EDITAR ESTA CLASE
+
 public class InstructionMemoryTest3 {
     
     @Test

@@ -4,6 +4,8 @@ import org.junit.jupiter.api.Test;
 
 import com.uninorte.ALU;
 
+// NO EDITAR ESTA CLASE
+
 public class ALUTest1 {
     
     @Test

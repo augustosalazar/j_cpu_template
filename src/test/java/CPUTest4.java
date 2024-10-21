@@ -6,6 +6,8 @@ import com.uninorte.CPU;
 import com.uninorte.Instruction.Add;
 import com.uninorte.Instruction.AddI;
 
+// NO EDITAR ESTA CLASE
+
 public class CPUTest4 {
     
     @Test
